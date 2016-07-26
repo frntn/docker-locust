@@ -1,3 +1,4 @@
 locustio
 statsd
 pyzmq
+requests_toolbelt
